@@ -34,7 +34,13 @@ O projeto parte de um protótipo em HTML único e está sendo reconstruído como
 
 ## Como rodar
 
-O tooling ainda está sendo configurado (Fase 0). Os comandos para instalar, rodar e testar o projeto serão adicionados aqui assim que o projeto Vite estiver no repositório.
+Requisitos: Node.js 22.18 e npm.
+
+```bash
+npm install
+npm run dev     # servidor de desenvolvimento (http://localhost:5173)
+npm run build   # build de produção
+```
 
 ## Desenvolvimento assistido por IA
 
